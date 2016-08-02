@@ -1,0 +1,1 @@
+"use strict";var _add=require("../modules/add.js");console.log((0,_add.add)(1,2)),console.log((0,_add.substract)(1,2));
